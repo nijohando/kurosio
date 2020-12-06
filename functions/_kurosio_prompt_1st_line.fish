@@ -1,0 +1,5 @@
+function _kurosio_prompt_1st_line
+  _kurosio_prompt_segment_status
+  _kurosio_prompt_segment_path
+  _kurosio_prompt_segment_git
+end
