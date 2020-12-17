@@ -2,14 +2,19 @@
 
 Simple prompt for [fish shell](http://fishshell.com/).
 
+# Requirements
+
+* Fish >= 3.1
+* Git
+* [Nerd Fonrs](https://github.com/ryanoasis/nerd-fonts)
+
 ## Installation
 
-* With [fisherman](https://github.com/fisherman/fisherman)
+* With [fisher](https://github.com/jorgebucaran/fisher)
 
 ```
-fisher nijohando/kurosio
+fisher install nijohando/kurosio
 ```
-__Note:__ Default confiuration requires [Nerd Fonrs](https://github.com/ryanoasis/nerd-fonts)
 
 ## Feature
 

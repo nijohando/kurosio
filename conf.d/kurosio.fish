@@ -13,5 +13,6 @@ set -g _kurosio_prompt_git_clean_bg_color a8cb10
 set -g _kurosio_prompt_git_clean_fg_color 000000
 set -g _kurosio_prompt_git_branch_symbol ' '\ue0a0' '
 set -g _kurosio_prompt_git_detached_head_symbol ' '\uf417' '
-set -g _kurosio_prompt_git_stashed_symbol \uf831'  '
+set -g _kurosio_prompt_git_stashed_symbol \uf831' '
+set -g _kurosio_prompt_git_untracked_files_symbol \uf833' '
 
