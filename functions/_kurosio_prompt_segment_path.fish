@@ -11,7 +11,7 @@ function _kurosio_prompt_segment_path
     set cliped 1
   end
   set_color -b $_kurosio_prompt_path_bg_color
-  if [ $cliped -eq 1 ]
+  if test $cliped -eq 1
     echo -n " "
     set -l h (string sub -l 9 -- $p)
     set p (string sub -s10 -- $p)
